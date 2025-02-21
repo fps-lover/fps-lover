@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50" />
   &nbsp;
   <!-- Google Apps Script -->
-  <img src="https://ssl.gstatic.com/docs/script/images/logo48.png" alt="Google Apps Script" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google Apps Script" width="50" height="50" />
 </p>
 
 <!-- 2行目 -->
