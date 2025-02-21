@@ -11,7 +11,6 @@
 ---
 
 <!-- [START] Tech Stack -->
-## 💻 Tech Stack:
 
 ## 💻 Tech Stack:
 
