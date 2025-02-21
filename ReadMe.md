@@ -13,6 +13,8 @@
 <!-- [START] Tech Stack -->
 ## 💻 Tech Stack:
 
+## 💻 Tech Stack:
+
 <!-- 1行目 -->
 <p>
   <!-- C -->
@@ -26,6 +28,9 @@
   &nbsp;
   <!-- PowerShell -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50" />
+  &nbsp;
+  <!-- Google Apps Script -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Google_Drive_Script.png" alt="Google Apps Script" width="50" height="50" />
 </p>
 
 <!-- 2行目 -->
@@ -51,6 +56,7 @@
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
 </p>
+
 
 <!-- [END] Tech Stack -->
 
