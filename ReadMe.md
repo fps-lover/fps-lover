@@ -24,9 +24,6 @@
   <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
   &nbsp;
-  <!-- Markdown -->
-  <img src="https://www.vectorlogo.zone/logos/markdown/markdown-icon.svg" alt="Markdown" width="50" height="50" />
-  &nbsp;
   <!-- PowerShell -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50" />
 </p>
